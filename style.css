@@ -1,0 +1,40 @@
+body{
+          background-color: #33CCFF;
+          margin: 5% 0 0 20%;
+          padding: 1% 0 0 2%
+          border: 1px solid red;
+          color: white;
+        }
+        h1 {
+            color:#00ff00;
+            text-decoration: underline;
+            font-size: 20px;
+            }
+        h2  {
+            color:#00FFFF;
+            font-size: 18px;
+            font-weight: bold;
+        
+            }
+        h4  {
+            color:#00ff00;
+            font-size: 12px;
+            font-family: sans-serif;
+        
+            }
+        img {
+            padding:1px;
+            border:1px solid #33FF66;
+            }
+        table, th,td{
+             border:1px solid green;
+             font-size: 16px;
+            }
+        th  {
+             background-color:green;
+             color:white;
+            }
+        td  {
+            color:#9370DB;
+                
+            }  
